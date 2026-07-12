@@ -1,0 +1,13 @@
+#fondo-pagina {
+    background-color: #000000;
+}
+#featured-articles-articles {
+    border: 1px solid #ffffff;
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    padding: 0;
+}
+p {
+    color: #ffffff;
+}
