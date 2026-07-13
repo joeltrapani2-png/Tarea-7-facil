@@ -1,12 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+
+
+
 #fondo-pagina {
     background-color: #000000;
 }
-#featured-articles-articles {
-    border: 1px solid #ffffff;
-    display: flex;
-    justify-content: space-between;
-    list-style-type: none;
-    padding: 0;
+li {
+    border: 3px solid #ffffff;
+    
 }
 p {
     color: #ffffff;
