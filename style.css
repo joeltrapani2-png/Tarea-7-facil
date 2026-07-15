@@ -3,17 +3,25 @@
 *{font-family: "Inter", sans-serif;}
 h2{
 color: #ffffff;
+text-align:center
+}
+.caja1{
+display:flex;
+justify-content: center;
+gap:20px;
+flex-wrap:wrap;
 }
 
 #fondo-pagina {
-    background-color: #000000;
+    background-color: #1b1b1b;
 }
-li {
+.tarjeta{
     border: 1px solid #ffffff;  
     border-radius: .5rem;
     display
     flex-direction: column;
-    padding: 1rem;
+    padding:20px;
+    width:340px;
 }
 p { color: #ffffff;}
 
