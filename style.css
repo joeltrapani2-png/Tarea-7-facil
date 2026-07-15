@@ -1,15 +1,26 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
 
-
-
+*{font-family: "Inter", sans-serif;}
+h2{
+color: #ffffff;
+}
 
 #fondo-pagina {
     background-color: #000000;
 }
 li {
-    border: 3px solid #ffffff;
-    
+    border: 1px solid #ffffff;  
+    border-radius: .5rem;
+    display
+    flex-direction: column;
+    padding: 1rem;
 }
-p {
-    color: #ffffff;
+p { color: #ffffff;}
+
+a{text-decoration: none;
+    color:#ffffff
+}
+
+a:hover {
+border-bottom: 1px solid white
 }
